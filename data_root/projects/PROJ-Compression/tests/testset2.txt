@@ -1,0 +1,14 @@
+test1:The Calgary Corpus/bib:ASCII
+test2:The Calgary Corpus/book1:ASCII
+test3:The Calgary Corpus/book2:ASCII
+test4:The Calgary Corpus/geo:DATA
+test5:The Calgary Corpus/news:ASCII
+test6:The Calgary Corpus/obj1:EXE
+test7:The Calgary Corpus/obj2:EXE
+test8:The Calgary Corpus/paper1:ASCII
+test9:The Calgary Corpus/paper2:ASCII
+test10:The Calgary Corpus/pic:DATA
+test11:The Calgary Corpus/progc:ASCII
+test12:The Calgary Corpus/progl:ASCII
+test13:The Calgary Corpus/progp:ASCII
+test14:The Calgary Corpus/trans:DATA

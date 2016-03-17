@@ -1,0 +1,14 @@
+{
+    "TestSet": {
+    "ShortName"        : "Canterbury",
+    "Description"      : "The Canterbury Corpus testset",
+    "HTMLDescFile"     : "testset3.html",
+    "N"                : 11,
+    "TestRepeat"       : 3,
+    "TimeLimit"        : 600,
+    "QuickTest"        : false,
+    "TestSetFiles"     : ["The Canterbury Corpus/*"],
+    "DescriptionFile"  : "testset3.txt"
+  }
+}
+

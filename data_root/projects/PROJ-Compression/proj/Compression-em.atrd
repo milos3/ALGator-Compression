@@ -1,0 +1,51 @@
+{
+  "ResultDescription":
+  { 
+    "Format"           : "CSV",
+    "Delimiter"        : ";",
+    "TestParameters"   : ["FileName", "FileType", "FS"],    	
+    "ResultParameters" : ["TC", "TD", "CompOK", "CompRate"],    	
+  
+    "Parameters":   [	    
+      {
+       "Name":        "FileName",             
+       "Description": "The file name", 
+       "Type":        "string"       
+      }, 
+      {
+       "Name":        "FileType",             
+       "Description": "The file type", 
+       "Type":        "string"       
+      }, 
+      {
+       "Name"        : "TC",             
+       "Description" : "Compression time",             
+       "Type"        : "timer",          
+       "Subtype"     : "0 MIN"    
+      },
+      {
+       "Name"        : "TD",             
+       "Description" : "Decompression time",             
+       "Type"        : "timer",          
+       "Subtype"     : "1 MIN"    
+      },
+      {
+       "Name"        : "CompOK",             
+       "Description" : "The correctness of the algorithm (OK or NOK)", 
+       "Type"        : "string"       
+      },
+      {
+       "Name"        : "CompRate",             
+       "Description" : "The compression rate", 
+       "Type"        : "double",
+       "Subtype"     : "2"
+      },
+      {
+       "Name"        : "FS",             
+       "Description" : "The file size", 
+       "Type"        : "int"       
+      }
+    ]
+  }
+}
+ 

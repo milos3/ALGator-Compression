@@ -1,0 +1,11 @@
+{
+  "Algorithm" : {	
+   "ShortName"      : "LZW",             
+   "Description"    : "Lzw algorithm",
+   "HTMLDescFile"   : "lzw.html",
+   "Author"         : "mp",
+   "Date"           : "18.11.2014",
+   "Classes"        : ["LzwAlgorithm.java"],
+   "MainClassName"  : "LzwAlgorithm"
+  }
+} 

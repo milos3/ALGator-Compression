@@ -1,0 +1,11 @@
+{
+  "Algorithm" : {	
+   "ShortName"      : "HFM",             
+   "Description"    : "Huffman algorithm",
+   "HTMLDescFile"   : "huffman.html",
+   "Author"         : "mp",
+   "Date"           : "18.11.2014",
+   "Classes"        : ["HuffmanAlgorithm.java"],
+   "MainClassName"  : "HuffmanAlgorithm"
+  }
+} 

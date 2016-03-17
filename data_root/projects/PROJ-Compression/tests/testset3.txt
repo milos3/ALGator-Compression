@@ -1,0 +1,11 @@
+test1:The Canterbury Corpus/alice29.txt:ASCII
+test2:The Canterbury Corpus/asyoulik.txt:ASCII
+test3:The Canterbury Corpus/cp.html:ASCII
+test4:The Canterbury Corpus/fields.c:ASCII
+test5:The Canterbury Corpus/grammar.lsp:ASCII
+test6:The Canterbury Corpus/kennedy.xls:DATA
+test7:The Canterbury Corpus/lcet10.txt:ASCII
+test8:The Canterbury Corpus/plrabn12.txt:ASCII
+test9:The Canterbury Corpus/ptt5:DATA
+test10:The Canterbury Corpus/sum:EXE
+test11:The Canterbury Corpus/xargs.1:ASCII

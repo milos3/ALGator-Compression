@@ -1,0 +1,10 @@
+test1:Maximum Compression/A10.jpg:DATA
+test2:Maximum Compression/AcroRd32.exe:EXE
+test3:Maximum Compression/english.dic:ASCII
+test4:Maximum Compression/FlashMX.pdf:DATA
+test5:Maximum Compression/FP.LOG:ASCII
+test6:Maximum Compression/MSO97.DLL:EXE
+test7:Maximum Compression/ohs.doc:DATA
+test8:Maximum Compression/rafale.bmp:DATA
+test9:Maximum Compression/vcfiu.hlp:DATA
+test10:Maximum Compression/world95.txt:ASCII

@@ -1,0 +1,12 @@
+test1:Silesia Corpus/dickens:ASCII
+test2:Silesia Corpus/mozilla:TAR
+test3:Silesia Corpus/mr:DATA
+test4:Silesia Corpus/nci:ASCII
+test5:Silesia Corpus/ooffice:EXE
+test6:Silesia Corpus/osdb:DATA
+test7:Silesia Corpus/reymont:ASCII
+test8:Silesia Corpus/samba:TAR
+test9:Silesia Corpus/sao:DATA
+test10:Silesia Corpus/webster:ASCII
+test11:Silesia Corpus/xml:TAR
+test12:Silesia Corpus/x-ray:DATA

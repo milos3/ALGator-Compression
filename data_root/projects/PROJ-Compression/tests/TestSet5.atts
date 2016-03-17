@@ -1,0 +1,14 @@
+{
+    "TestSet": {
+    "ShortName"        : "Maximum",
+    "Description"      : "Maximum Compression testset",
+    "HTMLDescFile"     : "testset5.html",
+    "N"                : 10,
+    "TestRepeat"       : 3,
+    "TimeLimit"        : 600,
+    "QuickTest"        : false,
+    "TestSetFiles"     : ["Maximum Compression/*"],
+    "DescriptionFile"  : "testset5.txt"
+  }
+}
+

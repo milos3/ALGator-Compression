@@ -1,0 +1,11 @@
+{
+  "Algorithm" : {	
+   "ShortName"      : "ART",             
+   "Description"    : "Arithmetic algorithm",
+   "HTMLDescFile"   : "arithmetic.html",
+   "Author"         : "mp",
+   "Date"           : "18.11.2014",
+   "Classes"        : ["ArithmeticAlgorithm.java"],
+   "MainClassName"  : "ArithmeticAlgorithm"
+  }
+} 

@@ -1,0 +1,1 @@
+{    "TestSet": {    "ShortName"        : "Quick",    "Description"      : "Quick testset",    "HTMLDescFile"     : "testset1.html",    "N"                : 3,    "TestRepeat"       : 1,    "TimeLimit"        : 600,    "QuickTest"        : true,    "TestSetFiles"     : ["The Canterbury Corpus/*", "Maximum Compression/*"],    "DescriptionFile"  : "testset1.txt"  }}

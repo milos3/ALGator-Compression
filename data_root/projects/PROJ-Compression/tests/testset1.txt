@@ -1,0 +1,3 @@
+test1:The Canterbury Corpus/alice29.txt:ASCII
+test2:Maximum Compression/A10.jpg:DATA
+test3:Maximum Compression/AcroRd32.exe:EXE
